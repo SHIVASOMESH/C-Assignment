@@ -1,0 +1,207 @@
+                                                                         
+
+                                                                                                       MODULE: 1 (SDLC)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+1. What is software? What is software engineering? 
+
+A: Software refers to the set of instructions, programs, and data used to control the operation of computers and other electronic devices.
+   It includes all the programs, applications, and operating systems that run on a computer or device.
+
+   => Software engineering is the process of designing, developing, testing, and maintaining software. 
+   It involves using engineering principles and methods to create high-quality software that meets the needs of users, is reliable, and is easy to maintain and update. 
+   This involves the application of various software development methodologies, such as agile or waterfall, and the use of specialized tools and techniques to manage the software development lifecycle. 
+   The goal of software engineering is to create software that is efficient, reliable, and maintainable, while also meeting the needs of users and stakeholders. 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+2. Explain types of software?
+
+A:There are several types of software, each designed to perform specific tasks or functions. Here are some common types of software:
+
+  1. System software: This is the software that controls the basic operations of a computer or device, such as the operating system, device drivers, and utility programs.
+
+  2. Application software: This is the software that is designed to perform specific tasks or functions, such as word processing, spreadsheet management, graphic design, and video editing.
+
+  3. Programming software: This is the software that is used to develop other software applications, such as compilers, integrated development environments (IDEs), and debuggers.
+
+  4. Web-based software: This is software that is delivered over the internet and accessed through a web browser, such as web applications, online games, and cloud-based services.
+
+  5. Database software: This is software that is used to store, manage, and retrieve data, such as database management systems, data warehouses, and data mining tools.
+
+  6. Communication software: This is software that is used to facilitate communication between users or devices, such as email clients, instant messaging programs, and video conferencing tools.
+
+  7. Security software: This is software that is designed to protect computer systems and networks from unauthorized access, viruses, and other security threats, such as antivirus software, firewalls, and intrusion detection systems.
+
+  => These are just a few examples of the many types of software that exist, and new types of software are constantly being developed to meet the evolving needs of users and businesses.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+3.What is SDLC? Explain each phase of SDLC?
+
+A: SDLC stands for Software Development Life Cycle. It is a process used by software development teams to plan, design, build, test, and maintain software applications. 
+   The SDLC consists of several phases, each with its own objectives, deliverables, and outcomes. Here are the main phases of the SDLC:
+
+    1. Planning: In this phase, the software development team defines the scope of the project, identifies the requirements and constraints, and creates a plan for how the software will be developed. 
+   This phase also involves identifying the stakeholders and establishing communication channels between the team and stakeholders.
+
+    2. Analysis: In this phase, the team analyzes the requirements of the software application, including the user needs, business processes, and technical requirements.
+   This phase includes activities such as feasibility studies, requirement gathering, and documentation of functional and non-functional requirements.
+
+    3. Design: In this phase, the team creates a detailed design of the software application, including the architecture, user interface, data models, and system components.
+    This phase also includes creating technical specifications and design documents.
+
+    4. Implementation: In this phase, the team builds the software application based on the design specifications.
+    This phase includes activities such as coding, testing, debugging, and integration of system components.
+
+    5. Testing: In this phase, the team tests the software application to ensure that it meets the functional and non-functional requirements.
+    This phase includes activities such as unit testing, integration testing, system testing, and user acceptance testing.
+
+    6. Deployment: In this phase, the software application is deployed to the production environment, and the team ensures that it is ready for use by end-users.
+    This phase includes activities such as installation, configuration, and data migration.
+
+     7. Maintenance: In this phase, the team monitors and maintains the software application to ensure that it continues to meet the needs of users and stakeholders.
+     This phase includes activities such as bug fixing, enhancements, and upgrades.
+
+   =>Overall, the SDLC provides a structured approach to software development, ensuring that the team delivers a high-quality software application that meets the needs of users and stakeholders.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+4. What is DFD? Create a DFD diagram on Flipkart?
+
+A: DFD stands for Data Flow Diagram. It is a graphical representation of how data flows through a system or application. A DFD typically consists of four components: 
+   data sources and destinations, data flows, processes, and data stores.
+
+   =>Here is a simple DFD diagram for the Flipkart website:
+
+   image----
+
+   =>In this diagram, the rectangles represent processes, the circles represent data sources and destinations, the arrows represent data flows, and the parallel lines represent data stores.
+
+   =>The DFD for Flipkart shows how the data flows through the website, starting with the user entering their search query and ending with the user receiving their order. Here are the different components of the DFD:
+   
+   1. User: This is the person who interacts with the Flipkart website, entering search queries, selecting products, and placing orders.
+
+   2. Search: This is the process of searching for products based on the user's query.
+
+   3. Product Listing: This is the process of displaying the search results to the user.
+
+   4. Product Selection: This is the process of the user selecting a product they want to purchase.
+
+   5. Order Processing: This is the process of processing the user's order and creating an invoice.
+
+   6. Payment: This is the process of the user making payment for their order.
+
+   7. Order Fulfillment: This is the process of fulfilling the user's order, including packaging and shipping.
+
+   8. Customer: This is the user who receives the product they ordered.
+
+   9. Product Information: This is the data store that contains information about the products available on Flipkart.
+
+   10 . Order Information: This is the data store that contains information about the user's orders and invoices.
+
+   => This DFD provides a high-level view of the data flow in the Flipkart system and can help developers and stakeholders better understand how the system works.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+5. What is Flow chart? Create a flowchart to make addition of two numbers 
+
+A: A flowchart is a graphical representation of a process or algorithm. It uses symbols and arrows to show the sequence of steps involved in a process or decision-making. 
+   Flowcharts can help in understanding complex processes and improving their efficiency.
+
+   => Here is a simple flowchart to illustrate the process of adding two numbers:
+
+   => In this flowchart, the rectangles represent process steps, the diamonds represent decision points, and the arrows represent the flow of control.
+
+   => The process for adding two numbers involves the following steps:
+
+	1. Start the program.	
+
+	2. Input the first number.
+	
+	3. Input the second number.
+
+	4. Add the two numbers together.
+
+	5. Output the sum of the two numbers.
+
+	6. End the program.
+
+	=> The decision point in the flowchart is whether the program should continue running or end. In this case, the program ends after the sum of the two numbers is outputted.
+
+	=> This flowchart provides a clear and concise visual representation of the process for adding two numbers, making it easy for developers to understand and implement the process in code.
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+6. What is Use case Diagram? Create a use-case on bill payment on paytm.
+
+A: A use case diagram is a graphical representation of how users interact with a system or application. It describes the various use cases (i.e., interactions) between actors (i.e., users or other systems) 
+   and the system being designed. Use case diagrams are useful in identifying and understanding the functional requirements of a system.
+
+ 	=> Here is a use case diagram for bill payment on Paytm:
+
+	
+
+	=> In this use case diagram, the actors are the User and the Biller. The User is the person who wants to pay a bill using the Paytm application, and the Biller is the company or organization that issued the bill.
+	  The different use cases are represented by ovals, and the relationships between the actors and use cases are represented by arrows.
+
+	=> The use case for bill payment on Paytm involves the following steps:
+
+	1. Start the Paytm application.
+
+	2. Login to the Paytm application using the user's credentials.
+
+	3. Select the "Bill Payment" option.
+
+	4. Select the biller from the list of available billers.
+
+	5. Input the bill details, including the amount due and the due date.
+
+	6. Confirm the payment.
+
+	7. Input the payment details, including the payment method and any applicable discounts or coupons.
+
+	8. Submit the payment.
+
+	9. Receive confirmation of the payment.
+
+	10. End the use case.
+
+	=>This use case diagram provides a clear understanding of how the Paytm application can be used to pay bills, from selecting the biller to submitting the payment.
+	  It can be used as a basis for designing and implementing the bill payment feature in the Paytm application.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
